@@ -1,0 +1,5 @@
+NAMA = 'KLEMENTINA LAIYAN'
+NIM = '201440050'
+
+print(NAMA)
+print(NIM)
